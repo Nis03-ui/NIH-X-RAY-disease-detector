@@ -1,6 +1,5 @@
-🚀 🔥 GitHub README (Professional Version)
 
-Copy this directly:
+
 
 🫁 Chest X-ray Disease Detection using Deep Learning (NIH Dataset)
 📌 Project Overview
