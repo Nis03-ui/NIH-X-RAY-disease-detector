@@ -4,6 +4,10 @@
 🫁 Chest X-ray Disease Detection using Deep Learning (NIH Dataset)
 📌 Project Overview
 
+dataset:https://www.kaggle.com/datasets/nih-chest-xrays/data/
+
+
+
 This project is a multi-label deep learning system for detecting thoracic diseases from chest X-ray images using the NIH Chest X-ray dataset. The model predicts multiple conditions such as Atelectasis, Effusion, Cardiomegaly, Mass, and Nodule from a single X-ray image.
 
 🧠 Problem Statement
